@@ -6,27 +6,27 @@ function App() {
 
   const [state, setState] = useState([
     {
-      name: "",
+      name: "Edward",
       checkedIn: false,
     },
     {
-      name: "Ahmet",
+      name: "Paula",
       checkedIn: false,
     },
     {
-      name: "Ali",
+      name: "Elisa",
       checkedIn: false,
     },
     {
-      name: "Emin",
+      name: "Birgit",
       checkedIn: false,
     },
     {
-      name: "Galip",
+      name: "Baha",
       checkedIn: false,
     },
     {
-      name: "Bahadir",
+      name: "Inantsch",
       checkedIn: false,
     },
   ]
