@@ -4,11 +4,13 @@
 
 ### You can start dies Page with https://propsmitteilwind.netlify.app/
 
-My name is Bahadir Inanc and I am a frontend web developer from Lüneburg, Germany. 
+My name is <img src="-Bahadir Inanc-blue.svg" alt="Name"/> and I am a frontend web developer from Lüneburg, Germany. 
 
 ---
 
-### What did I aim for and what did I use in this study? 
+### What did I aim for and what did I use in this study?
+
+
 
 In this study, I tried to use tailwind Css and props.
 
